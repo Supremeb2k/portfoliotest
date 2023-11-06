@@ -1,0 +1,252 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+
+.fond {
+    background-color: #d9d9d9;
+    width: 100%;
+    height: 150px;
+
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.logo {
+    width: 10%;
+    cursor: pointer;
+}
+
+.logo:hover {
+    opacity: 80%;
+
+}
+
+.around {
+    justify-content: space-around;
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.image {
+    padding-top: 30px;
+}
+
+.textheader {
+    margin-top: 50px;
+}
+
+.textheader {
+    font-family: 'Anton', sans-serif;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.textheader:hover {
+    color: blueviolet;
+    font-size: 20px;
+}
+
+.center {
+
+    justify-content: center;
+}
+
+.fond2 {
+    background-color: blueviolet;
+    width: 100%;
+    height: 5px;
+
+}
+
+
+.marge {
+    margin-left: 5px;
+    margin-right: 10px;
+
+}
+
+.fond3 {
+    background-color: #131200;
+    width: 100%;
+    height: 500px;
+}
+
+
+.cadrage {
+    background-color: blueviolet;
+    width: 100%;
+    height: 5px;
+}
+
+.titre2 {
+    font-family: 'Anton', sans-serif;
+    color: #fff;
+    font-weight: bold;
+    font-size: 100px;
+    margin-left: 20px;
+    padding: 20px 50px 20px 50px;
+}
+
+.fond4 {
+
+    background-color: blueviolet;
+    width: 50%;
+    height: 5px;
+    margin-top: -35px;
+}
+
+.textdescription {
+    color: white;
+    font-family: 'Anton', sans-serif;
+    font-size: 60px;
+    padding: 10px 30px 10px 30px;
+}
+
+
+.devweb {
+    color: blueviolet;
+    font-size: 85px;
+    margin-left: 45px;
+    margin-top: -33px;
+}
+
+.testimage {
+    width: 15%;
+}
+
+.font {
+    font-family: 'Anton', sans-serif;
+}
+
+.icone {
+
+    margin-left: 21px;
+    margin-top: 21px;
+}
+
+.bouton1{
+text-decoration: none;
+font-family: 'Anton', sans-serif;
+color: #fff;
+background-color: blueviolet;
+padding: 18px 20px 18px 20px;
+border-radius: 20px;
+margin-left: 145px;
+font-size: 20px;
+cursor: pointer;
+}
+
+.bouton1:hover{
+background-color: gray;
+
+
+}
+
+.margintopppp{
+margin-top: 20px;
+}
+
+.moiilage{
+width: 439px;
+margin-left: 776px;
+margin-top: -296px;
+border-radius: 40%;
+box-shadow: 2px 2px 15px #d9d9d9;
+}
+
+.fond5{
+background-color: #d9d9d9;
+width: 100%;
+height: 500px;
+}
+
+.titre3{
+    font-family: 'Anton', sans-serif;
+color: blueviolet;
+text-align: center;
+font-size: 100px;
+}
+
+.deuxiemecadrage{
+background-color: blueviolet;
+width: 30%;
+height: 5px;
+margin-left: 425px;
+margin-top: -18px;
+}
+
+
+
+.card{
+    margin-top: 95px;
+width: 206px;
+height: 249px;
+box-shadow: 2px 2px 15px black;
+border-radius: 20px;
+background-color: whitesmoke;
+}
+
+.textcard{
+text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+.icone2{
+margin-left: 82px;
+font-size: 40px;
+color: blueviolet;
+}
+
+.plubas{
+
+margin-top: 26px;
+}
+
+.generosité{
+margin-top: 6px;
+}
+
+.icone3{
+    margin-left: 82px;
+    font-size: 40px;
+    color: blueviolet;
+    margin-top: 1px;
+    }
+
+    .icone4{
+        margin-left: 93px;
+        font-size: 40px;
+        color: blueviolet;
+        margin-top: 4px;
+        }
+
+        .textplusbas{
+margin-top: 5px;
+margin-left: 10px;
+        }
+
+
+        .icone5{
+            margin-left: 93px;
+            font-size: 40px;
+            color: blueviolet;
+            margin-top: 4px;
+            }
+    
+
+            .magentillesse{
+margin-left: 4px;
+margin-top: 5px;
+
+            }
+
