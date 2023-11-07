@@ -393,3 +393,29 @@ color: gray;
     margin-top: 100px;
 
 }
+
+.testanimation{
+
+    animation: flash 3.2s linear;
+}
+
+@keyframes flash {
+    0%{
+
+margin-left: -500px;
+    }
+
+    30%{
+        margin-left: 0px;
+    }
+
+60%{
+
+    margin-left: 16px;
+}
+
+
+100%{
+    margin-left: 21px;
+}
+}
