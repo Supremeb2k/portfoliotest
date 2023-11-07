@@ -132,121 +132,264 @@
 
     margin-left: 21px;
     margin-top: 21px;
-}
-
-.bouton1{
-text-decoration: none;
-font-family: 'Anton', sans-serif;
-color: #fff;
-background-color: blueviolet;
-padding: 18px 20px 18px 20px;
-border-radius: 20px;
-margin-left: 145px;
-font-size: 20px;
 cursor: pointer;
 }
 
-.bouton1:hover{
-background-color: gray;
-
+.icone:hover{
+color: gray;
 
 }
 
-.margintopppp{
-margin-top: 20px;
-}
 
-.moiilage{
-width: 439px;
-margin-left: 776px;
-margin-top: -296px;
-border-radius: 40%;
-box-shadow: 2px 2px 15px #d9d9d9;
-}
-
-.fond5{
-background-color: #d9d9d9;
-width: 100%;
-height: 500px;
-}
-
-.titre3{
+.bouton1 {
+    text-decoration: none;
     font-family: 'Anton', sans-serif;
-color: blueviolet;
-text-align: center;
-font-size: 100px;
+    color: #fff;
+    background-color: blueviolet;
+    padding: 18px 20px 18px 20px;
+    border-radius: 20px;
+    margin-left: 145px;
+    font-size: 20px;
+    cursor: pointer;
 }
 
-.deuxiemecadrage{
-background-color: blueviolet;
-width: 30%;
-height: 5px;
-margin-left: 425px;
-margin-top: -18px;
+.bouton1:hover {
+    background-color: gray;
+
+
+}
+
+.margintopppp {
+    margin-top: 20px;
+}
+
+.moiilage {
+    width: 439px;
+    margin-left: 776px;
+    margin-top: -296px;
+    border-radius: 40%;
+    box-shadow: 2px 2px 15px #d9d9d9;
+}
+
+.fond5 {
+    background-color: #d9d9d9;
+    width: 100%;
+    height: 1031px;
+}
+
+.titre3 {
+    font-family: 'Anton', sans-serif;
+    color: blueviolet;
+    text-align: center;
+    font-size: 100px;
+}
+
+.deuxiemecadrage {
+    background-color: blueviolet;
+    width: 30%;
+    height: 5px;
+    margin-left: 425px;
+    margin-top: -18px;
 }
 
 
 
-.card{
+.card {
     margin-top: 95px;
-width: 206px;
-height: 249px;
-box-shadow: 2px 2px 15px black;
-border-radius: 20px;
-background-color: whitesmoke;
+    width: 206px;
+    height: 249px;
+    box-shadow: 2px 2px 15px black;
+    border-radius: 20px;
+    background-color: whitesmoke;
 }
 
-.textcard{
-text-align: center;
+.textcard {
+    text-align: center;
     font-family: 'Anton', sans-serif;
 }
 
-.icone2{
-margin-left: 82px;
-font-size: 40px;
-color: blueviolet;
+.icone2 {
+    margin-left: 82px;
+    font-size: 40px;
+    color: blueviolet;
 }
 
-.plubas{
+.plubas {
 
-margin-top: 26px;
+    margin-top: 26px;
 }
 
-.generosité{
-margin-top: 6px;
+.generosité {
+    margin-top: 6px;
 }
 
-.icone3{
+.icone3 {
     margin-left: 82px;
     font-size: 40px;
     color: blueviolet;
     margin-top: 1px;
-    }
+}
 
-    .icone4{
-        margin-left: 93px;
-        font-size: 40px;
-        color: blueviolet;
-        margin-top: 4px;
-        }
+.icone4 {
+    margin-left: 93px;
+    font-size: 40px;
+    color: blueviolet;
+    margin-top: 4px;
+}
 
-        .textplusbas{
-margin-top: 5px;
-margin-left: 10px;
-        }
+.textplusbas {
+    margin-top: 5px;
+    margin-left: 10px;
+}
 
 
-        .icone5{
-            margin-left: 93px;
-            font-size: 40px;
-            color: blueviolet;
-            margin-top: 4px;
-            }
-    
+.icone5 {
+    margin-left: 93px;
+    font-size: 40px;
+    color: blueviolet;
+    margin-top: 4px;
+}
 
-            .magentillesse{
-margin-left: 4px;
-margin-top: 5px;
 
-            }
+.magentillesse {
+    margin-left: 4px;
+    margin-top: 5px;
 
+}
+
+.marge-denhaut {
+    margin-top: 104px;
+}
+
+.explication {
+    width: 600px;
+    font-family: 'Anton', sans-serif;
+    padding: 20px 16px 20px 16px;
+}
+
+.cadrage3 {
+    background-color: blueviolet;
+    width: 45%;
+    height: 5px;
+    margin-top: -125px;
+}
+
+.imagelatoile {
+    width: 425px;
+    margin-right: 20px;
+    border-radius: 20%;
+
+}
+
+.fond7 {
+    background-color: #131200;
+    width: 100%;
+    height: 718px;
+}
+
+.mesplusgrand {
+
+    color: #fff;
+    font-family: 'Anton', sans-serif;
+    font-size: 88px;
+    font-weight: bold;
+}
+
+.center1 {
+    text-align: center;
+}
+
+.cadrage4 {
+    background-color: blueviolet;
+    width: 60%;
+    height: 5px;
+    margin-left: 235px;
+}
+
+.projetquejaifait {
+    width: 40%;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 30px;
+    box-shadow: 2px 2px 15px whitesmoke;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.projetquejaifait:hover {
+
+    opacity: 80%;
+}
+
+.texttitredevie {
+    color: blueviolet;
+    font-size: 30px;
+    font-family: 'Anton', sans-serif;
+    margin-left: 149px;
+    margin-right: 125px;
+}
+
+.testcadrage {
+
+    background-color: #fff;
+    width: 25%;
+    height: 5px;
+    margin-left: 115px;
+    margin-right: 103px;
+
+}
+
+.descriptionsite {
+    color: #fff;
+    font-family: 'Anton', sans-serif;
+    width: 380px;
+    font-size: 18px;
+    margin-left: 95px;
+    margin-top: 5px;
+    margin-right: 57px;
+
+}
+
+.margintopp3 {
+    margin-top: 15px;
+}
+
+.fondfinal {
+    background-color: black;
+    width: 100%;
+    height: 400px;
+}
+
+.mecontactez {
+    color: #fff;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.icone10 {
+    color: blueviolet;
+    font-size: 80px;
+    cursor: pointer;
+}
+
+.icone10:hover {
+    color: #fff;
+
+}
+
+.textmecontactez {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Anton', sans-serif;
+    font-size: 23px;
+    padding-top: 20px;
+    margin-left: 5px;
+}
+
+.margin100 {
+
+    margin-left: -130px;
+    margin-top: 100px;
+
+}
